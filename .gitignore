@@ -187,6 +187,7 @@ library/
 **/snapshot/
 *.whl
 tmp.py
+*.code-workspace
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
