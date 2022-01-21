@@ -157,7 +157,7 @@ cython_debug/
 #.idea/
 
 ### VisualStudioCode ###
-.vscode/*
+.vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -186,6 +186,7 @@ library/
 **/.vector_cache/
 **/snapshot/
 *.whl
+tmp.py
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
