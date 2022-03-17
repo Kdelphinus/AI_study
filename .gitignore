@@ -189,6 +189,7 @@ library/
 tmp.py
 *.code-workspace
 .idea/
+**/.base
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
