@@ -180,6 +180,7 @@ cython_debug/
 **/*data/
 **/*model*
 memo.txt
+AI기술 자연어 처리 전문가 양성 과정/KAKAO 인턴 코딩 테스트
 library/
 **/실습 및 과제/
 **/generate.txt
