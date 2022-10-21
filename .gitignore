@@ -177,6 +177,8 @@ cython_debug/
 
 # Support for Project snippet scope
 
+# What i add
+
 **/*data/
 **/*model*
 memo.txt
@@ -191,6 +193,5 @@ tmp.py
 *.code-workspace
 .idea/
 **/.base
-
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
