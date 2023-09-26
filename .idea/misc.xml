@@ -4,7 +4,7 @@
     <option name="enabledOnReformat" value="true" />
     <option name="enabledOnSave" value="true" />
     <option name="pathToExecutable" value="/usr/local/bin/black" />
-    <option name="sdkUUID" value="984d0e97-6882-4bb5-b8c7-ea8e14c406f0" />
+    <option name="sdkUUID" value="552aff11-bee1-428b-b45b-07eaa60bf70b" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (AI_Study)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (AI_Study)" project-jdk-type="Python SDK" />
 </project>
