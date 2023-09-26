@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/study/파이썬 머신러닝 완벽 가이드/1장/titanic/train.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
