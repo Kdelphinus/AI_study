@@ -1,8 +1,0 @@
-- [PyTorch로 시작하는 딥러닝 입문](https://wikidocs.net/book/2788)
-  - wikidocs 문서
-- [데이터 분석 및 시각화](https://www.youtube.com/watch?v=PjhlUzp_cU0)
-  - nado coding 강의
-- [파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/dashboard)
-  - 인프런 강의 자료
-- [파이토치 튜토리얼](https://tutorials.pytorch.kr/)
-  - 파이토치 공식문서
