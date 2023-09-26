@@ -9,6 +9,7 @@
     4. [Generative AI Fundamentals](https://www.cloudskillsboost.google/course_templates/556)
     5. [Introduction to Image Generation](https://www.cloudskillsboost.google/course_templates/541?catalog_rank=%7B%22rank%22:1,%22num_filters%22:0,%22has_search%22:true%7D&search_id=25863287)
     6. [Encoder-Decoder Architecture](https://www.cloudskillsboost.google/course_templates/543?catalog_rank=%7B%22rank%22:1,%22num_filters%22:0,%22has_search%22:true%7D&search_id=25863292)
+        - [Lab Walkthrough](https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/text_generation.ipynb)
     7. [Attention Mechanism](https://www.cloudskillsboost.google/course_templates/537?catalog_rank=%7B%22rank%22:1,%22num_filters%22:0,%22has_search%22:true%7D&search_id=25863295)
     8. [Transformer Models and BERT Model](https://www.cloudskillsboost.google/course_templates/538?catalog_rank=%7B%22rank%22:1,%22num_filters%22:0,%22has_search%22:true%7D&search_id=25863300)
     9. [Create Image Captioning Models](https://www.cloudskillsboost.google/course_templates/542?catalog_rank=%7B%22rank%22:2,%22num_filters%22:0,%22has_search%22:true%7D&search_id=25863308)
