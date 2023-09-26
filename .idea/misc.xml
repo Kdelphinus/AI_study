@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="pathToExecutable" value="/usr/local/bin/black" />
+    <option name="sdkUUID" value="984d0e97-6882-4bb5-b8c7-ea8e14c406f0" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (AI_Study)" project-jdk-type="Python SDK" />
 </project>
