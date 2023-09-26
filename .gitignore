@@ -180,7 +180,6 @@ cython_debug/
 # What i add
 
 **/*data/
-**/*model*
 memo.txt
 AI기술 자연어 처리 전문가 양성 과정/KAKAO 인턴 코딩 테스트
 library/
