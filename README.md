@@ -2,6 +2,7 @@
 
 - AI기술 자연어 처리 전문가 양성 과정
   - goorm 강의
+  - [레포지토리](https://github.com/Kdelphinus/NLP_study) 따로 분리
 - [DACON](https://dacon.io/)
   - DACON 관련
 - Generative AI Basic
